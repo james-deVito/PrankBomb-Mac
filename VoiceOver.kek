@@ -1,3 +1,0 @@
-#!/bin/sh
-
-while true ; do osascript -e 'tell application "VoiceOver" to activate' ; osascript -e 'tell application "VoiceOver" to quit' ; done
