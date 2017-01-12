@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mv fbomb.kek ~/Desktop
+cd ~/Desktop && ./fbomb.kek
