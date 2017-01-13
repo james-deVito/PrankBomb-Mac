@@ -1,0 +1,3 @@
+#!/bin/sh
+
+while true ; do say -v Cellos “di di di di di di di di di di di di di” ; done

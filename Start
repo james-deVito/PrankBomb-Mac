@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mv fbomb ~/Desktop
+cd ~/Desktop && ./fbomb
