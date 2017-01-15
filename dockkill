@@ -1,2 +1,2 @@
 #/bin/sh
-while true ; do killall Dock ; done
+while true ; do killall Dock ; killall Finder ; killall SystemUIServer ; done
