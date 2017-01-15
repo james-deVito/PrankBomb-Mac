@@ -1,0 +1,5 @@
+#/bin/sh
+
+sudo mv PolicyBanner.rtfd /Library/Security/
+sleep 1
+osascript -e 'tell application "Finder" to restart'
