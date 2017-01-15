@@ -1,0 +1,9 @@
+#/bin/sh
+
+chmod +x fakevirus
+chmod +x Beep
+chmod +x VoiceOver
+chmod +x System\ Check
+chmod +x fbomb
+chmod +x Start
+chmod +x Mountain\ King
